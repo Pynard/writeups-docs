@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/RARCTF/challenges/srsa",
+  "id": "2021/RARCTF/challenges/srsa",
+  "title": "SRSA",
+  "description": "The problem",
+  "source": "@site/docs/2021/RARCTF/challenges/srsa.md",
+  "sourceDirName": "2021/RARCTF/challenges",
+  "slug": "/2021/RARCTF/challenges/srsa",
+  "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/srsa",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/RARCTF/challenges/srsa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RARPG",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/rarpg"
+  },
+  "next": {
+    "title": "VERYBABYREV",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/verybabyrev"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/KKS/challenges/bson",
+  "id": "2020/KKS/challenges/bson",
+  "title": "BSON",
+  "description": "aprés avoir télécharger le fichier bson",
+  "source": "@site/docs/2020/KKS/challenges/bson.md",
+  "sourceDirName": "2020/KKS/challenges",
+  "slug": "/2020/KKS/challenges/bson",
+  "permalink": "/writeups-docs/docs/2020/KKS/challenges/bson",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/KKS/challenges/bson.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KKS",
+    "permalink": "/writeups-docs/docs/2020/KKS/"
+  },
+  "next": {
+    "title": "ENCRYPTED_STORAGE_1",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/encrypted_storage_1"
+  }
+}

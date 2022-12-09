@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BOOT2ROOT/challenges/target2",
+  "id": "2020/BOOT2ROOT/challenges/target2",
+  "title": "TARGET2",
+  "description": "L'indice est un compte twitter du nom de redjohn190989 sur lequel on trouve une image intéressante :",
+  "source": "@site/docs/2020/BOOT2ROOT/challenges/target2.md",
+  "sourceDirName": "2020/BOOT2ROOT/challenges",
+  "slug": "/2020/BOOT2ROOT/challenges/target2",
+  "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/target2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BOOT2ROOT/challenges/target2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TARGET1",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/target1"
+  },
+  "next": {
+    "title": "VULNERABLE_ADVENTURE",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure"
+  }
+}

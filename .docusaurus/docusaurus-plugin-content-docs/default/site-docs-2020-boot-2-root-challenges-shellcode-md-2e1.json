@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BOOT2ROOT/challenges/shellcode",
+  "id": "2020/BOOT2ROOT/challenges/shellcode",
+  "title": "SHELLCODE",
+  "description": "- Fichier : shellcode",
+  "source": "@site/docs/2020/BOOT2ROOT/challenges/shellcode.md",
+  "sourceDirName": "2020/BOOT2ROOT/challenges",
+  "slug": "/2020/BOOT2ROOT/challenges/shellcode",
+  "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/shellcode",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BOOT2ROOT/challenges/shellcode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROPPY_ROPPER",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/roppy_ropper"
+  },
+  "next": {
+    "title": "STRING",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/string"
+  }
+}

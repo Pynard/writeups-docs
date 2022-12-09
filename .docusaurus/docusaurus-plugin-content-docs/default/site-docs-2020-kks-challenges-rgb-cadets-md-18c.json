@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/KKS/challenges/rgb_cadets",
+  "id": "2020/KKS/challenges/rgb_cadets",
+  "title": "RGB_CADETS",
+  "description": "https://tasks.kksctf.ru/tasks/ef7ad535-72d4-42e7-9006-f4e05ed6f649/cadets.png",
+  "source": "@site/docs/2020/KKS/challenges/rgb_cadets.md",
+  "sourceDirName": "2020/KKS/challenges",
+  "slug": "/2020/KKS/challenges/rgb_cadets",
+  "permalink": "/writeups-docs/docs/2020/KKS/challenges/rgb_cadets",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/KKS/challenges/rgb_cadets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MOTORSOUNDS",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/motorsounds"
+  },
+  "next": {
+    "title": "WELCOME",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/welcome"
+  }
+}

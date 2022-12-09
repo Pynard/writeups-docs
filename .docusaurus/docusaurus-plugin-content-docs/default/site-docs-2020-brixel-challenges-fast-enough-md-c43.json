@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/fast_enough",
+  "id": "2020/BRIXEL/challenges/fast_enough",
+  "title": "FAST ENOUGH",
+  "description": "On this page we get a code to send back via a POST method in less than 1 second",
+  "source": "@site/docs/2020/BRIXEL/challenges/fast_enough.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/fast_enough",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/fast_enough",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/fast_enough.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EVIDENCE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/evidence"
+  },
+  "next": {
+    "title": "GOODBYE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/goodbye"
+  }
+}

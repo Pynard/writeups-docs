@@ -1,0 +1,27 @@
+{
+  "unversionedId": "2020/HXP/HXP",
+  "id": "2020/HXP/HXP",
+  "title": "HXP",
+  "description": "The hxp CTF 2020 will take place on 2020-12-18 starting at 1500 UTC).",
+  "source": "@site/docs/2020/HXP/HXP.md",
+  "sourceDirName": "2020/HXP",
+  "slug": "/2020/HXP/",
+  "permalink": "/writeups-docs/docs/2020/HXP/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/HXP/HXP.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "HXP",
+    "title": "HXP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TAPE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/tape"
+  },
+  "next": {
+    "title": "FIND_THE_CHICKEN",
+    "permalink": "/writeups-docs/docs/2020/HXP/challenges/find_the_chicken"
+  }
+}

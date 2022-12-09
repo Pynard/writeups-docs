@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/IMAGINARYCTF/README",
+  "id": "2021/IMAGINARYCTF/README",
+  "title": "INFOS",
+  "description": "Description",
+  "source": "@site/docs/2021/IMAGINARYCTF/README.md",
+  "sourceDirName": "2021/IMAGINARYCTF",
+  "slug": "/2021/IMAGINARYCTF/",
+  "permalink": "/docs/2021/IMAGINARYCTF/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/IMAGINARYCTF/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WELCOME",
+    "permalink": "/docs/2020/KKS/challenges/welcome"
+  },
+  "next": {
+    "title": "FAKE_CANARY",
+    "permalink": "/docs/2021/IMAGINARYCTF/challenges/fake_canary"
+  }
+}

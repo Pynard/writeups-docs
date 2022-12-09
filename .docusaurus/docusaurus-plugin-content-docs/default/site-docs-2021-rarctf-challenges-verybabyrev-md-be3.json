@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/RARCTF/challenges/verybabyrev",
+  "id": "2021/RARCTF/challenges/verybabyrev",
+  "title": "VERYBABYREV",
+  "description": "- File : verybabyrev",
+  "source": "@site/docs/2021/RARCTF/challenges/verybabyrev.md",
+  "sourceDirName": "2021/RARCTF/challenges",
+  "slug": "/2021/RARCTF/challenges/verybabyrev",
+  "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/verybabyrev",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/RARCTF/challenges/verybabyrev.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SRSA",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/srsa"
+  },
+  "next": {
+    "title": "Write Ups",
+    "permalink": "/writeups-docs/docs/intro"
+  }
+}

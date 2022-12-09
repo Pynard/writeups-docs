@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/KKS/challenges/happy_new_year_1",
+  "id": "2020/KKS/challenges/happy_new_year_1",
+  "title": "HAPPY_NEW_YEAR_1",
+  "description": "On se crée un compte et on envoie un message",
+  "source": "@site/docs/2020/KKS/challenges/happy_new_year_1.md",
+  "sourceDirName": "2020/KKS/challenges",
+  "slug": "/2020/KKS/challenges/happy_new_year_1",
+  "permalink": "/writeups-docs/docs/2020/KKS/challenges/happy_new_year_1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/KKS/challenges/happy_new_year_1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FCNSPECIALE",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/fcnspeciale"
+  },
+  "next": {
+    "title": "HAPPY_NEW_YEAR_2",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/happy_new_year_2"
+  }
+}

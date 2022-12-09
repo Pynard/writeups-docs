@@ -1,0 +1,27 @@
+{
+  "unversionedId": "2020/KKS/KKS",
+  "id": "2020/KKS/KKS",
+  "title": "KKS",
+  "description": "https://open.kksctf.ru/",
+  "source": "@site/docs/2020/KKS/KKS.md",
+  "sourceDirName": "2020/KKS",
+  "slug": "/2020/KKS/",
+  "permalink": "/writeups-docs/docs/2020/KKS/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/KKS/KKS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "KKS",
+    "title": "KKS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FIND_THE_CHICKEN",
+    "permalink": "/writeups-docs/docs/2020/HXP/challenges/find_the_chicken"
+  },
+  "next": {
+    "title": "BSON",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/bson"
+  }
+}

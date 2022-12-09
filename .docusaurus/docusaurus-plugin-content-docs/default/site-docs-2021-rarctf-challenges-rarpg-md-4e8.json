@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/RARCTF/challenges/rarpg",
+  "id": "2021/RARCTF/challenges/rarpg",
+  "title": "RARPG",
+  "description": "- File : client",
+  "source": "@site/docs/2021/RARCTF/challenges/rarpg.md",
+  "sourceDirName": "2021/RARCTF/challenges",
+  "slug": "/2021/RARCTF/challenges/rarpg",
+  "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/rarpg",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/RARCTF/challenges/rarpg.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "INFINITE_FREE_TRIAL",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/infinite_free_trial"
+  },
+  "next": {
+    "title": "SRSA",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/srsa"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/README",
+  "id": "2020/BRIXEL/README",
+  "title": "WRITE UPS",
+  "description": "| Name | Flags |",
+  "source": "@site/docs/2020/BRIXEL/README.md",
+  "sourceDirName": "2020/BRIXEL",
+  "slug": "/2020/BRIXEL/",
+  "permalink": "/docs/2020/BRIXEL/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VULNERABLE_ADVENTURE_2",
+    "permalink": "/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure_2"
+  },
+  "next": {
+    "title": "ANDROID",
+    "permalink": "/docs/2020/BRIXEL/challenges/android"
+  }
+}

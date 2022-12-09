@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/IMAGINARYCTF/challenges/stackoverflow",
+  "id": "2021/IMAGINARYCTF/challenges/stackoverflow",
+  "title": "STACKOVERFLOW",
+  "description": "- File : stackoverflow",
+  "source": "@site/docs/2021/IMAGINARYCTF/challenges/stackoverflow.md",
+  "sourceDirName": "2021/IMAGINARYCTF/challenges",
+  "slug": "/2021/IMAGINARYCTF/challenges/stackoverflow",
+  "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/stackoverflow",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/IMAGINARYCTF/challenges/stackoverflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SPELLING_TEST",
+    "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/spelling_test"
+  },
+  "next": {
+    "title": "STINGS",
+    "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/stings"
+  }
+}

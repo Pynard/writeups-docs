@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/punchcard",
+  "id": "2020/BRIXEL/challenges/punchcard",
+  "title": "PUNCHCARD",
+  "description": "punchcard.png",
+  "source": "@site/docs/2020/BRIXEL/challenges/punchcard.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/punchcard",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/punchcard",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/punchcard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NO_PEEKING",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/no_peeking"
+  },
+  "next": {
+    "title": "QUIZBOT",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/quizbot"
+  }
+}

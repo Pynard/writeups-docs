@@ -1,0 +1,12 @@
+{
+  "title": "Writeups 2021",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/writeups-2021",
+  "permalink": "/writeups-docs/docs/category/writeups-2021",
+  "navigation": {
+    "next": {
+      "title": "INFOS",
+      "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/"
+    }
+  }
+}

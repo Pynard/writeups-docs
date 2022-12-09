@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/no_peeking",
+  "id": "2020/BRIXEL/challenges/no_peeking",
+  "title": "NO_PEEKING",
+  "description": "- File : noPEEKing.exe",
+  "source": "@site/docs/2020/BRIXEL/challenges/no_peeking.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/no_peeking",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/no_peeking",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/no_peeking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MESSAGE_FROM_SPACE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/message_from_space"
+  },
+  "next": {
+    "title": "PUNCHCARD",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/punchcard"
+  }
+}

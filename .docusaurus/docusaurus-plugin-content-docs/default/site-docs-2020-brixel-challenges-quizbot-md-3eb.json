@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/quizbot",
+  "id": "2020/BRIXEL/challenges/quizbot",
+  "title": "QUIZBOT",
+  "description": "On this page we have to answer to 1000 questions !",
+  "source": "@site/docs/2020/BRIXEL/challenges/quizbot.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/quizbot",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/quizbot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/quizbot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PUNCHCARD",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/punchcard"
+  },
+  "next": {
+    "title": "REGISTERE ME",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/registereme"
+  }
+}

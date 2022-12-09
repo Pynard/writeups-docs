@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/keep_walking",
+  "id": "2020/BRIXEL/challenges/keep_walking",
+  "title": "KEEP WALKING",
+  "description": "Here a simple python code do the trick",
+  "source": "@site/docs/2020/BRIXEL/challenges/keep_walking.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/keep_walking",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/keep_walking",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/keep_walking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GOODBYE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/goodbye"
+  },
+  "next": {
+    "title": "MESSAGE_FROM_SPACE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/message_from_space"
+  }
+}

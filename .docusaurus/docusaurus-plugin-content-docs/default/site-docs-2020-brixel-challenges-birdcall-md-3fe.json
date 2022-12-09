@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/birdcall",
+  "id": "2020/BRIXEL/challenges/birdcall",
+  "title": "BIRDCALL",
+  "description": "- Fichier : birdcall.mp3",
+  "source": "@site/docs/2020/BRIXEL/challenges/birdcall.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/birdcall",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/birdcall",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/birdcall.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ANDROID",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/android"
+  },
+  "next": {
+    "title": "COOKIES",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/cookies"
+  }
+}

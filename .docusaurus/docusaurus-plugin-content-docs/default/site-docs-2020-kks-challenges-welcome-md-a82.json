@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/KKS/challenges/welcome",
+  "id": "2020/KKS/challenges/welcome",
+  "title": "WELCOME",
+  "description": "Le flag est affiché sur la page d'accueil il y a juste à le copier collé",
+  "source": "@site/docs/2020/KKS/challenges/welcome.md",
+  "sourceDirName": "2020/KKS/challenges",
+  "slug": "/2020/KKS/challenges/welcome",
+  "permalink": "/writeups-docs/docs/2020/KKS/challenges/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/KKS/challenges/welcome.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RGB_CADETS",
+    "permalink": "/writeups-docs/docs/2020/KKS/challenges/rgb_cadets"
+  },
+  "next": {
+    "title": "2021",
+    "permalink": "/writeups-docs/docs/category/2021"
+  }
+}

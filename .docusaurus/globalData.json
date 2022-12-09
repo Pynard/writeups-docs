@@ -1,0 +1,313 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/writeups-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/writeups-docs/docs",
+          "mainDocId": "2020/BOOT2ROOT/BOOT2ROOT",
+          "docs": [
+            {
+              "id": "2020/BOOT2ROOT/BOOT2ROOT",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/roppy_ropper",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/roppy_ropper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/shellcode",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/shellcode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/string",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/target1",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/target1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/target2",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/target2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/vulnerable_adventure",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BOOT2ROOT/challenges/vulnerable_adventure_2",
+              "path": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure_2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/BRIXEL",
+              "path": "/writeups-docs/docs/2020/BRIXEL/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/android",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/android",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/birdcall",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/birdcall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/cookies",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/cookies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/evidence",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/evidence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/fast_enough",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/fast_enough",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/goodbye",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/goodbye",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/keep_walking",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/keep_walking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/message_from_space",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/message_from_space",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/no_peeking",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/no_peeking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/punchcard",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/punchcard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/quizbot",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/quizbot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/registereme",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/registereme",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/salty",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/salty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/scan_me",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/scan_me",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/BRIXEL/challenges/tape",
+              "path": "/writeups-docs/docs/2020/BRIXEL/challenges/tape",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/HXP/challenges/find_the_chicken",
+              "path": "/writeups-docs/docs/2020/HXP/challenges/find_the_chicken",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/HXP/HXP",
+              "path": "/writeups-docs/docs/2020/HXP/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/bson",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/bson",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/encrypted_storage_1",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/encrypted_storage_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/fcnspeciale",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/fcnspeciale",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/happy_new_year_1",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/happy_new_year_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/happy_new_year_2",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/happy_new_year_2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/motorsounds",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/motorsounds",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/rgb_cadets",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/rgb_cadets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/challenges/welcome",
+              "path": "/writeups-docs/docs/2020/KKS/challenges/welcome",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2020/KKS/KKS",
+              "path": "/writeups-docs/docs/2020/KKS/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/fake_canary",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/fake_canary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/flip_flop",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/flip_flop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/formatting",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/formatting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/imaginary",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/imaginary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/roos_world",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/roos_world",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/speedrun",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/speedrun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/spelling_test",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/spelling_test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/stackoverflow",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/stackoverflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/challenges/stings",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/stings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/IMAGINARYCTF/IMAGINARYCTF",
+              "path": "/writeups-docs/docs/2021/IMAGINARYCTF/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/archer",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/archer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/babycrypt",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/babycrypt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/dotty",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/dotty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/fancy_button_generator",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/fancy_button_generator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/infinite_free_trial",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/infinite_free_trial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/rarpg",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/rarpg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/srsa",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/srsa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/challenges/verybabyrev",
+              "path": "/writeups-docs/docs/2021/RARCTF/challenges/verybabyrev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2021/RARCTF/RARCTF",
+              "path": "/writeups-docs/docs/2021/RARCTF/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/writeups-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/2020",
+              "path": "/writeups-docs/docs/category/2020",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/2021",
+              "path": "/writeups-docs/docs/category/2021",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/writeups-docs/docs/category/2020",
+                "label": "2020"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

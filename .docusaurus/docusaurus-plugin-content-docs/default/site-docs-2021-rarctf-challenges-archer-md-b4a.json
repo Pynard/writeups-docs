@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/RARCTF/challenges/archer",
+  "id": "2021/RARCTF/challenges/archer",
+  "title": "ARCHER",
+  "description": "- File  : archer",
+  "source": "@site/docs/2021/RARCTF/challenges/archer.md",
+  "sourceDirName": "2021/RARCTF/challenges",
+  "slug": "/2021/RARCTF/challenges/archer",
+  "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/archer",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/RARCTF/challenges/archer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RARCTF",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/"
+  },
+  "next": {
+    "title": "# BABYCRYPT",
+    "permalink": "/writeups-docs/docs/2021/RARCTF/challenges/babycrypt"
+  }
+}

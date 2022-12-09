@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BOOT2ROOT/challenges/vulnerable_adventure",
+  "id": "2020/BOOT2ROOT/challenges/vulnerable_adventure",
+  "title": "VULNERABLE_ADVENTURE",
+  "description": "- Fichier : client.py",
+  "source": "@site/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure.md",
+  "sourceDirName": "2020/BOOT2ROOT/challenges",
+  "slug": "/2020/BOOT2ROOT/challenges/vulnerable_adventure",
+  "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TARGET2",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/target2"
+  },
+  "next": {
+    "title": "VULNERABLE_ADVENTURE_2",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/vulnerable_adventure_2"
+  }
+}

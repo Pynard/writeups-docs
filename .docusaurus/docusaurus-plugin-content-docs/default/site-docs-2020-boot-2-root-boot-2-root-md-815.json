@@ -1,0 +1,27 @@
+{
+  "unversionedId": "2020/BOOT2ROOT/BOOT2ROOT",
+  "id": "2020/BOOT2ROOT/BOOT2ROOT",
+  "title": "BOOT2ROOT",
+  "description": "b00t2root",
+  "source": "@site/docs/2020/BOOT2ROOT/BOOT2ROOT.md",
+  "sourceDirName": "2020/BOOT2ROOT",
+  "slug": "/2020/BOOT2ROOT/",
+  "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BOOT2ROOT/BOOT2ROOT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "BOOT2ROOT",
+    "title": "BOOT2ROOT"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2020",
+    "permalink": "/writeups-docs/docs/category/2020"
+  },
+  "next": {
+    "title": "ROPPY_ROPPER",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/roppy_ropper"
+  }
+}

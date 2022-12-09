@@ -1,0 +1,15 @@
+{
+  "title": "2021",
+  "slug": "/category/2021",
+  "permalink": "/writeups-docs/docs/category/2021",
+  "navigation": {
+    "previous": {
+      "title": "WELCOME",
+      "permalink": "/writeups-docs/docs/2020/KKS/challenges/welcome"
+    },
+    "next": {
+      "title": "IMAGINARYCTF",
+      "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BOOT2ROOT/challenges/string",
+  "id": "2020/BOOT2ROOT/challenges/string",
+  "title": "STRING",
+  "description": "Le message chiffré",
+  "source": "@site/docs/2020/BOOT2ROOT/challenges/string.md",
+  "sourceDirName": "2020/BOOT2ROOT/challenges",
+  "slug": "/2020/BOOT2ROOT/challenges/string",
+  "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/string",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BOOT2ROOT/challenges/string.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHELLCODE",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/shellcode"
+  },
+  "next": {
+    "title": "TARGET1",
+    "permalink": "/writeups-docs/docs/2020/BOOT2ROOT/challenges/target1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "2021/IMAGINARYCTF/IMAGINARYCTF",
+  "id": "2021/IMAGINARYCTF/IMAGINARYCTF",
+  "title": "IMAGINARYCTF",
+  "description": "Description",
+  "source": "@site/docs/2021/IMAGINARYCTF/IMAGINARYCTF.md",
+  "sourceDirName": "2021/IMAGINARYCTF",
+  "slug": "/2021/IMAGINARYCTF/",
+  "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/IMAGINARYCTF/IMAGINARYCTF.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "IMAGINARYCTF",
+    "title": "IMAGINARYCTF"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2021",
+    "permalink": "/writeups-docs/docs/category/2021"
+  },
+  "next": {
+    "title": "FAKE_CANARY",
+    "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/fake_canary"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/BRIXEL/challenges/scan_me",
+  "id": "2020/BRIXEL/challenges/scan_me",
+  "title": "SCAN ME",
+  "description": "Inside this qr code is another one, just have to crop it",
+  "source": "@site/docs/2020/BRIXEL/challenges/scan_me.md",
+  "sourceDirName": "2020/BRIXEL/challenges",
+  "slug": "/2020/BRIXEL/challenges/scan_me",
+  "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/scan_me",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/BRIXEL/challenges/scan_me.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SALTY",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/salty"
+  },
+  "next": {
+    "title": "TAPE",
+    "permalink": "/writeups-docs/docs/2020/BRIXEL/challenges/tape"
+  }
+}

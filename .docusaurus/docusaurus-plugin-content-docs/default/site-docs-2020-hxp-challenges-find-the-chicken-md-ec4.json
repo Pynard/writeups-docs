@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2020/HXP/challenges/find_the_chicken",
+  "id": "2020/HXP/challenges/find_the_chicken",
+  "title": "FIND_THE_CHICKEN",
+  "description": "Description",
+  "source": "@site/docs/2020/HXP/challenges/find_the_chicken.md",
+  "sourceDirName": "2020/HXP/challenges",
+  "slug": "/2020/HXP/challenges/find_the_chicken",
+  "permalink": "/writeups-docs/docs/2020/HXP/challenges/find_the_chicken",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020/HXP/challenges/find_the_chicken.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HXP",
+    "permalink": "/writeups-docs/docs/2020/HXP/"
+  },
+  "next": {
+    "title": "KKS",
+    "permalink": "/writeups-docs/docs/2020/KKS/"
+  }
+}

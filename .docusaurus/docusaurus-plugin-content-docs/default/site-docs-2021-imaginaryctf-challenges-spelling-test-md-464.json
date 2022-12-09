@@ -1,0 +1,24 @@
+{
+  "unversionedId": "2021/IMAGINARYCTF/challenges/spelling_test",
+  "id": "2021/IMAGINARYCTF/challenges/spelling_test",
+  "title": "SPELLING_TEST",
+  "description": "- File : words.txt",
+  "source": "@site/docs/2021/IMAGINARYCTF/challenges/spelling_test.md",
+  "sourceDirName": "2021/IMAGINARYCTF/challenges",
+  "slug": "/2021/IMAGINARYCTF/challenges/spelling_test",
+  "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/spelling_test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021/IMAGINARYCTF/challenges/spelling_test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SPEEDRUN",
+    "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/speedrun"
+  },
+  "next": {
+    "title": "STACKOVERFLOW",
+    "permalink": "/writeups-docs/docs/2021/IMAGINARYCTF/challenges/stackoverflow"
+  }
+}
